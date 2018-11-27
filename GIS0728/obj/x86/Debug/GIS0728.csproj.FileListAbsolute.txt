@@ -1,0 +1,165 @@
+C:\Users\user\AppData\Local\Temporary Projects\GIS0728\bin\Debug\GIS0728.exe
+C:\Users\user\AppData\Local\Temporary Projects\GIS0728\bin\Debug\GIS0728.pdb
+C:\Users\user\AppData\Local\Temporary Projects\GIS0728\bin\Debug\ESRI.ArcGIS.Desktop.AddIns.dll
+C:\Users\user\AppData\Local\Temporary Projects\GIS0728\obj\x86\Debug\GIS0728.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\GIS0728\obj\x86\Debug\GIS0728.Properties.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\GIS0728\obj\x86\Debug\GIS0728.csproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\GIS0728\obj\x86\Debug\GIS0728.exe
+C:\Users\user\AppData\Local\Temporary Projects\GIS0728\obj\x86\Debug\GIS0728.pdb
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0728\GIS0728\obj\x86\Debug\GIS0728.exe
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0728\GIS0728\obj\x86\Debug\GIS0728.pdb
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0728\GIS0728\bin\Debug\GIS0728.exe
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0728\GIS0728\bin\Debug\GIS0728.pdb
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0728\GIS0728\bin\Debug\ESRI.ArcGIS.Desktop.AddIns.dll
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0728\GIS0728\obj\x86\Debug\GIS0728.csprojResolveAssemblyReference.cache
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0728\GIS0728\obj\x86\Debug\GIS0728.Form1.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0728\GIS0728\obj\x86\Debug\GIS0728.Properties.Resources.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0728\GIS0728\obj\x86\Debug\GIS0728.csproj.GenerateResource.Cache
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0728\GIS0728\obj\x86\Debug\GIS0728._3D视图.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0728\GIS0728\obj\x86\Debug\GIS0728.Checkform.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0728\GIS0728\obj\x86\Debug\GIS0728.Property.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0728\GIS0728\obj\x86\Debug\GIS0728.编辑图层.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0825\GIS0728\obj\x86\Debug\GIS0728.exe
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0825\GIS0728\obj\x86\Debug\GIS0728.pdb
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0825\GIS0728\bin\Debug\GIS0728.exe
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0825\GIS0728\bin\Debug\GIS0728.pdb
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0825\GIS0728\bin\Debug\ESRI.ArcGIS.Desktop.AddIns.dll
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0825\GIS0728\obj\x86\Debug\GIS0728.csprojResolveAssemblyReference.cache
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0825\GIS0728\obj\x86\Debug\GIS0728._3D视图.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0825\GIS0728\obj\x86\Debug\GIS0728.Checkform.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0825\GIS0728\obj\x86\Debug\GIS0728.Form1.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0825\GIS0728\obj\x86\Debug\GIS0728.Properties.Resources.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0825\GIS0728\obj\x86\Debug\GIS0728.Property.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0825\GIS0728\obj\x86\Debug\GIS0728.编辑图层.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0825\GIS0728\obj\x86\Debug\GIS0728.csproj.GenerateResource.Cache
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0825\GIS0728\obj\x86\Debug\GIS0728.噪声分级.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0825\GIS0728\obj\x86\Debug\GIS0728.渲染.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0825\GIS0728\obj\x86\Debug\GIS0728.色带.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0825 - 副本\GIS0728\obj\x86\Debug\GIS0728.exe
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0825 - 副本\GIS0728\obj\x86\Debug\GIS0728.pdb
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0825 - 副本\GIS0728\bin\Debug\GIS0728.exe
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0825 - 副本\GIS0728\bin\Debug\GIS0728.pdb
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0825 - 副本\GIS0728\bin\Debug\ESRI.ArcGIS.Desktop.AddIns.dll
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0825 - 副本\GIS0728\obj\x86\Debug\GIS0728.csprojResolveAssemblyReference.cache
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0825 - 副本\GIS0728\obj\x86\Debug\GIS0728._3D视图.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0825 - 副本\GIS0728\obj\x86\Debug\GIS0728.Checkform.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0825 - 副本\GIS0728\obj\x86\Debug\GIS0728.Form1.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0825 - 副本\GIS0728\obj\x86\Debug\GIS0728.Properties.Resources.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0825 - 副本\GIS0728\obj\x86\Debug\GIS0728.Property.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0825 - 副本\GIS0728\obj\x86\Debug\GIS0728.噪声分析.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0825 - 副本\GIS0728\obj\x86\Debug\GIS0728.噪声分级.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0825 - 副本\GIS0728\obj\x86\Debug\GIS0728.渲染.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0825 - 副本\GIS0728\obj\x86\Debug\GIS0728.编辑图层.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0825 - 副本\GIS0728\obj\x86\Debug\GIS0728.色带.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0825 - 副本\GIS0728\obj\x86\Debug\GIS0728.csproj.GenerateResource.Cache
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0827\GIS0728\obj\x86\Debug\GIS0728.exe
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0827\GIS0728\obj\x86\Debug\GIS0728.pdb
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0827\GIS0728\bin\Debug\GIS0728.exe
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0827\GIS0728\bin\Debug\GIS0728.pdb
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0827\GIS0728\bin\Debug\ESRI.ArcGIS.Desktop.AddIns.dll
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0827\GIS0728\obj\x86\Debug\GIS0728.csprojResolveAssemblyReference.cache
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0827\GIS0728\obj\x86\Debug\GIS0728._3D视图.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0827\GIS0728\obj\x86\Debug\GIS0728.Checkform.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0827\GIS0728\obj\x86\Debug\GIS0728.Form1.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0827\GIS0728\obj\x86\Debug\GIS0728.Properties.Resources.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0827\GIS0728\obj\x86\Debug\GIS0728.Property.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0827\GIS0728\obj\x86\Debug\GIS0728.噪声分析.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0827\GIS0728\obj\x86\Debug\GIS0728.噪声分级.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0827\GIS0728\obj\x86\Debug\GIS0728.渲染.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0827\GIS0728\obj\x86\Debug\GIS0728.编辑图层.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0827\GIS0728\obj\x86\Debug\GIS0728.色带.resources
+D:\tongji.edu\大三下\GIS课程设计\程序\GIS0827\GIS0728\obj\x86\Debug\GIS0728.csproj.GenerateResource.Cache
+E:\新建文件夹\1 - 素\3.0\3.2\gis课程设计\program\GIS0829\GIS0829\GIS0728\obj\x86\Debug\GIS0728.exe
+E:\新建文件夹\1 - 素\3.0\3.2\gis课程设计\program\GIS0829\GIS0829\GIS0728\obj\x86\Debug\GIS0728.pdb
+E:\新建文件夹\1 - 素\3.0\3.2\gis课程设计\program\GIS0829\GIS0829\GIS0728\obj\x86\Debug\GIS0728.csprojResolveAssemblyReference.cache
+E:\新建文件夹\1 - 素\3.0\3.2\gis课程设计\program\GIS0829\GIS0829\GIS0728\obj\x86\Debug\GIS0728._3D视图.resources
+E:\新建文件夹\1 - 素\3.0\3.2\gis课程设计\program\GIS0829\GIS0829\GIS0728\obj\x86\Debug\GIS0728.Checkform.resources
+E:\新建文件夹\1 - 素\3.0\3.2\gis课程设计\program\GIS0829\GIS0829\GIS0728\obj\x86\Debug\GIS0728.Form1.resources
+E:\新建文件夹\1 - 素\3.0\3.2\gis课程设计\program\GIS0829\GIS0829\GIS0728\obj\x86\Debug\GIS0728.Properties.Resources.resources
+E:\新建文件夹\1 - 素\3.0\3.2\gis课程设计\program\GIS0829\GIS0829\GIS0728\obj\x86\Debug\GIS0728.Property.resources
+E:\新建文件夹\1 - 素\3.0\3.2\gis课程设计\program\GIS0829\GIS0829\GIS0728\obj\x86\Debug\GIS0728.噪声分析.resources
+E:\新建文件夹\1 - 素\3.0\3.2\gis课程设计\program\GIS0829\GIS0829\GIS0728\obj\x86\Debug\GIS0728.噪声分级.resources
+E:\新建文件夹\1 - 素\3.0\3.2\gis课程设计\program\GIS0829\GIS0829\GIS0728\obj\x86\Debug\GIS0728.渲染.resources
+E:\新建文件夹\1 - 素\3.0\3.2\gis课程设计\program\GIS0829\GIS0829\GIS0728\obj\x86\Debug\GIS0728.编辑图层.resources
+E:\新建文件夹\1 - 素\3.0\3.2\gis课程设计\program\GIS0829\GIS0829\GIS0728\obj\x86\Debug\GIS0728.色带.resources
+E:\新建文件夹\1 - 素\3.0\3.2\gis课程设计\program\GIS0829\GIS0829\GIS0728\obj\x86\Debug\GIS0728.csproj.GenerateResource.Cache
+E:\新建文件夹\1 - 素\3.0\3.2\gis课程设计\program\GIS0829\GIS0829\GIS0728\obj\x86\Debug\GIS0728.routeForm.resources
+E:\新建文件夹\1 - 素\3.0\3.2\gis课程设计\program\GIS0829\GIS0829\GIS0728\bin\Debug\GIS0728.exe
+E:\新建文件夹\1 - 素\3.0\3.2\gis课程设计\program\GIS0829\GIS0829\GIS0728\bin\Debug\GIS0728.pdb
+E:\新建文件夹\1 - 素\3.0\3.2\gis课程设计\program\GIS0829\GIS0829\GIS0728\bin\Debug\ESRI.ArcGIS.Desktop.AddIns.dll
+C:\Users\航\Desktop\GIS0829\GIS0728\obj\x86\Debug\GIS0728.exe
+C:\Users\航\Desktop\GIS0829\GIS0728\obj\x86\Debug\GIS0728.pdb
+C:\Users\航\Desktop\GIS0829\GIS0728\bin\Debug\GIS0728.exe
+C:\Users\航\Desktop\GIS0829\GIS0728\bin\Debug\GIS0728.pdb
+C:\Users\航\Desktop\GIS0829\GIS0728\bin\Debug\ESRI.ArcGIS.Desktop.AddIns.dll
+C:\Users\航\Desktop\GIS0829\GIS0728\obj\x86\Debug\GIS0728.csprojResolveAssemblyReference.cache
+C:\Users\航\Desktop\GIS0829\GIS0728\obj\x86\Debug\GIS0728._3D视图.resources
+C:\Users\航\Desktop\GIS0829\GIS0728\obj\x86\Debug\GIS0728.Checkform.resources
+C:\Users\航\Desktop\GIS0829\GIS0728\obj\x86\Debug\GIS0728.Form1.resources
+C:\Users\航\Desktop\GIS0829\GIS0728\obj\x86\Debug\GIS0728.Form2.resources
+C:\Users\航\Desktop\GIS0829\GIS0728\obj\x86\Debug\GIS0728.Form3.resources
+C:\Users\航\Desktop\GIS0829\GIS0728\obj\x86\Debug\GIS0728.Properties.Resources.resources
+C:\Users\航\Desktop\GIS0829\GIS0728\obj\x86\Debug\GIS0728.Property.resources
+C:\Users\航\Desktop\GIS0829\GIS0728\obj\x86\Debug\GIS0728.routeForm.resources
+C:\Users\航\Desktop\GIS0829\GIS0728\obj\x86\Debug\GIS0728.噪声分析.resources
+C:\Users\航\Desktop\GIS0829\GIS0728\obj\x86\Debug\GIS0728.噪声分级.resources
+C:\Users\航\Desktop\GIS0829\GIS0728\obj\x86\Debug\GIS0728.渲染.resources
+C:\Users\航\Desktop\GIS0829\GIS0728\obj\x86\Debug\GIS0728.编辑图层.resources
+C:\Users\航\Desktop\GIS0829\GIS0728\obj\x86\Debug\GIS0728.色带.resources
+C:\Users\航\Desktop\GIS0829\GIS0728\obj\x86\Debug\GIS0728.csproj.GenerateResource.Cache
+D:\classes\GIS程设\暑假实习\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.exe
+D:\classes\GIS程设\暑假实习\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.pdb
+D:\classes\GIS程设\暑假实习\GIS0830\GIS0830\GIS0728\bin\Debug\GIS0728.exe
+D:\classes\GIS程设\暑假实习\GIS0830\GIS0830\GIS0728\bin\Debug\GIS0728.pdb
+D:\classes\GIS程设\暑假实习\GIS0830\GIS0830\GIS0728\bin\Debug\ESRI.ArcGIS.CartoUI.dll
+D:\classes\GIS程设\暑假实习\GIS0830\GIS0830\GIS0728\bin\Debug\ESRI.ArcGIS.Desktop.AddIns.dll
+D:\classes\GIS程设\暑假实习\GIS0830\GIS0830\GIS0728\bin\Debug\ESRI.ArcGIS.DisplayUI.dll
+D:\classes\GIS程设\暑假实习\GIS0830\GIS0830\GIS0728\bin\Debug\ESRI.ArcGIS.CartoUI.xml
+D:\classes\GIS程设\暑假实习\GIS0830\GIS0830\GIS0728\bin\Debug\ESRI.ArcGIS.DisplayUI.xml
+D:\classes\GIS程设\暑假实习\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.csprojResolveAssemblyReference.cache
+D:\classes\GIS程设\暑假实习\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728._3D视图.resources
+D:\classes\GIS程设\暑假实习\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.Checkform.resources
+D:\classes\GIS程设\暑假实习\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.Form1.resources
+D:\classes\GIS程设\暑假实习\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.Form2.resources
+D:\classes\GIS程设\暑假实习\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.Form3.resources
+D:\classes\GIS程设\暑假实习\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.Properties.Resources.resources
+D:\classes\GIS程设\暑假实习\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.Property.resources
+D:\classes\GIS程设\暑假实习\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.routeForm.resources
+D:\classes\GIS程设\暑假实习\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.噪声分析.resources
+D:\classes\GIS程设\暑假实习\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.噪声分级.resources
+D:\classes\GIS程设\暑假实习\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.渲染.resources
+D:\classes\GIS程设\暑假实习\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.编辑图层.resources
+D:\classes\GIS程设\暑假实习\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.色带.resources
+D:\classes\GIS程设\暑假实习\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.csproj.GenerateResource.Cache
+D:\classes\GIS程设\暑假实习\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.mdbReadForm.resources
+D:\classes\GIS程设\暑假实习\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.mdbWriteForm.resources
+F:\A课堂内A\大三下\GIS程序暑期实习\Project\GIS0830\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.exe
+F:\A课堂内A\大三下\GIS程序暑期实习\Project\GIS0830\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.pdb
+F:\A课堂内A\大三下\GIS程序暑期实习\Project\GIS0830\GIS0830\GIS0830\GIS0728\bin\Debug\GIS0728.exe
+F:\A课堂内A\大三下\GIS程序暑期实习\Project\GIS0830\GIS0830\GIS0830\GIS0728\bin\Debug\GIS0728.pdb
+F:\A课堂内A\大三下\GIS程序暑期实习\Project\GIS0830\GIS0830\GIS0830\GIS0728\bin\Debug\ESRI.ArcGIS.Desktop.AddIns.dll
+F:\A课堂内A\大三下\GIS程序暑期实习\Project\GIS0830\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.csprojResolveAssemblyReference.cache
+F:\A课堂内A\大三下\GIS程序暑期实习\Project\GIS0830\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728._3D视图.resources
+F:\A课堂内A\大三下\GIS程序暑期实习\Project\GIS0830\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.Checkform.resources
+F:\A课堂内A\大三下\GIS程序暑期实习\Project\GIS0830\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.Form1.resources
+F:\A课堂内A\大三下\GIS程序暑期实习\Project\GIS0830\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.Form2.resources
+F:\A课堂内A\大三下\GIS程序暑期实习\Project\GIS0830\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.Form3.resources
+F:\A课堂内A\大三下\GIS程序暑期实习\Project\GIS0830\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.mdbReadForm.resources
+F:\A课堂内A\大三下\GIS程序暑期实习\Project\GIS0830\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.mdbWriteForm.resources
+F:\A课堂内A\大三下\GIS程序暑期实习\Project\GIS0830\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.Properties.Resources.resources
+F:\A课堂内A\大三下\GIS程序暑期实习\Project\GIS0830\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.Property.resources
+F:\A课堂内A\大三下\GIS程序暑期实习\Project\GIS0830\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.routeForm.resources
+F:\A课堂内A\大三下\GIS程序暑期实习\Project\GIS0830\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.噪声分析.resources
+F:\A课堂内A\大三下\GIS程序暑期实习\Project\GIS0830\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.噪声分级.resources
+F:\A课堂内A\大三下\GIS程序暑期实习\Project\GIS0830\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.渲染.resources
+F:\A课堂内A\大三下\GIS程序暑期实习\Project\GIS0830\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.编辑图层.resources
+F:\A课堂内A\大三下\GIS程序暑期实习\Project\GIS0830\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.色带.resources
+F:\A课堂内A\大三下\GIS程序暑期实习\Project\GIS0830\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.csproj.GenerateResource.Cache
+F:\A课堂内A\大三下\GIS程序暑期实习\Project\GIS0830\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.shp2raster.resources
+F:\A课堂内A\大三下\GIS程序暑期实习\Project\GIS0830\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.mapAlgebra.resources
+F:\A课堂内A\大三下\GIS程序暑期实习\Project\GIS0830\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.aspectForm.resources
+F:\A课堂内A\大三下\GIS程序暑期实习\Project\GIS0830\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.rasterCal.resources
+F:\A课堂内A\大三下\GIS程序暑期实习\Project\GIS0830\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.HillshadeForm.resources
+F:\A课堂内A\大三下\GIS程序暑期实习\Project\GIS0830\GIS0830\GIS0830\GIS0728\obj\x86\Debug\GIS0728.raster2shp.resources
+F:\A课堂内A\大三下\GIS程序暑期实习\AAAFinal\GIS0830\GIS0728\obj\x86\Debug\GIS0728.exe
+F:\A课堂内A\大三下\GIS程序暑期实习\AAAFinal\GIS0830\GIS0728\obj\x86\Debug\GIS0728.pdb
